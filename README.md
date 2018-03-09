@@ -4,7 +4,7 @@ For example, you have thousand of PDF files and want to change the author for so
 if you rely on Author to estimate importance of annotations, for example, '+' is less significant than '+++'. Especially 
 this utility may be handy if you want to alter thousands of them.
 
-Usage:
+**Usage:**
 1. git clone https://github.com/Yerofeev/PDF_Annotations_Author.git
 2. cd PDF_Annotations_Author
 3. sudo apt-get install python3-poppler-qt5

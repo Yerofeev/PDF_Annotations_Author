@@ -1,4 +1,4 @@
-# PDF_Annotations_Author
+**PDF_Annotations_Author**
 Python3 tool to change 'Author' field of PDF-files.
 For example, you have thousand of PDF files and want to change the author for some of them. It may be very useful, 
 if you rely on Author to estimate importance of annotations, for example, '+' is less significant than '+++'. Especially 
